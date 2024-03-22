@@ -1,2 +1,2 @@
-#Release
-[spuderkon/Novellahttps://github.com/spuderkon/Novel/releases/tag/Game](https://github.com/spuderkon/Novel/releases/tag/Game)https://github.com/spuderkon/Novel/releases/tag/Game
+# Release
+![Link](https://github.com/spuderkon/Novel/releases/tag/Game)
