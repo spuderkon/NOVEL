@@ -1,2 +1,2 @@
 # Release
-[![Link](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)]
+![Link](https://github.com/spuderkon/Novel/releases/tag/Game)
